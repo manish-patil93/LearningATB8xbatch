@@ -1,6 +1,6 @@
 package ex_130724;
 
-public class Lab0200boolyeanex2 {
+public class Lab0500boolyeanex2 {
     public static void main(String[] args) {
         boolean manish_is_a_man = true;
         boolean prachi_is_a_woman = false;

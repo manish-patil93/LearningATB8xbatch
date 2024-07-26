@@ -1,6 +1,6 @@
 package ex_130724;
 
-public class Lab0300double {
+public class Lab0600double {
     public static void main(String[] args) {
         double a = 10;
         double b = 34;
